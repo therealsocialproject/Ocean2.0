@@ -4,9 +4,18 @@
 
 * Graph Replication
 * AI Controller
-* Player Pawns (subclass Character too)
 * UMGs
 * USave
+
+* Actor (includes cameras and meshes)
+  * Pawn
+    * Character
+      * Components
+      * Blueprints
+
+## Movement
+
+* Sweeping
 
 ## Scaffolding
 
