@@ -1,3 +1,5 @@
-# Ocean2.0
+# Ocean 2.0
 
-Lorem ipsum.
+## Game Engine Independent Repository
+
+An RTS style game set in the modern era.
