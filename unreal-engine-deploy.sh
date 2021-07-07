@@ -18,11 +18,9 @@
 
 #### Deploy Music
 
-#### Deploy Sprites/Visuals
+#### Deploy Sprites
 
 #### Deploy Particles
-
-#### Deploy Effects
 
 #### Deploy Video
 
