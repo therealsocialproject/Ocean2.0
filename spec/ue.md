@@ -9,6 +9,8 @@
 
 ---
 
+[controllers]
+
 * Actor (includes cameras and meshes)
   * Pawn
     * Character
