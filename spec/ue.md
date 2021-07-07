@@ -5,6 +5,7 @@
 * Graph Replication
 * AI Controller
 * Player Pawns (subclass Character too)
+* UMGs
 
 ## Scaffolding
 
