@@ -2,7 +2,15 @@
 
 # (ignore files if already there)
 
+### Deploy Config
+
+### Deploy Source
+
+### Deploy Shaders
+
 ### Deploy Assets
+
+
 
 #### Deploy Models
 
@@ -20,10 +28,8 @@
 
 #### Deploy Materials
 
-#### Deploy 
+#### Deploy Plugins
 
-### Deploy Source
+#### Deploy Misc
 
-### Deploy Config
 
-### Deploy 
