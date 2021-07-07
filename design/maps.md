@@ -7,3 +7,9 @@
 ## Randomly generated terrain?
 
 ## Skybox?
+
+## Shadows
+
+## Heightmap?
+
+## Shaders
