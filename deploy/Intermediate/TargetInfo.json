@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ocean",
+			"Path": "C:\\Users\\rijndael\\Documents\\Unreal Projects\\Ocean\\Source\\Ocean.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OceanEditor",
+			"Path": "C:\\Users\\rijndael\\Documents\\Unreal Projects\\Ocean\\Source\\OceanEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
