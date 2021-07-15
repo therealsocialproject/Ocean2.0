@@ -4,6 +4,6 @@
 
 DEPLOYMENT_PATH="../carcass/"
 
-cp "deploy/Binaries" $DEPLOYMENT_PATH
-cp "deploy/Content" $DEPLOYMENT_PATH
-cp "deploy/Intermediate" $DEPLOYMENT_PATH
+cp -r -v "deploy/Binaries" $DEPLOYMENT_PATH
+cp -r -v "deploy/Content" $DEPLOYMENT_PATH
+cp -r -v "deploy/Intermediate" $DEPLOYMENT_PATH
