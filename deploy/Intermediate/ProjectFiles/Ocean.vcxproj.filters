@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ocean.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{12CE0E8A-302D-47AF-987E-48A95B6A6626}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ocean.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OceanEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{58AA3670-F667-415F-9A56-8DD8824ABAD0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ocean">
+      <UniqueIdentifier>{A2E5F543-304C-4A21-BCB7-15A7D9B895D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ocean\Ocean.Build.cs">
+      <Filter>Source\Ocean</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ocean\Ocean.cpp">
+      <Filter>Source\Ocean</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ocean\Ocean.h">
+      <Filter>Source\Ocean</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ocean\OceanCharacter.cpp">
+      <Filter>Source\Ocean</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ocean\OceanCharacter.h">
+      <Filter>Source\Ocean</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ocean\OceanGameMode.cpp">
+      <Filter>Source\Ocean</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ocean\OceanGameMode.h">
+      <Filter>Source\Ocean</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ocean\OceanPlayerController.cpp">
+      <Filter>Source\Ocean</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ocean\OceanPlayerController.h">
+      <Filter>Source\Ocean</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
