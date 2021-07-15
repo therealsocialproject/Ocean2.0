@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Ocean.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\OceanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\Ocean.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\OceanCharacter.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\OceanGameMode.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\OceanPlayerController.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\Ocean.init.gen.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\OceanCharacter.gen.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\OceanGameMode.gen.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\OceanPlayerController.gen.cpp.obj"
+"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\Default.rc2.res"
+/OUT:"C:\Users\rijndael\Documents\Unreal Projects\Ocean\Intermediate\Build\Win64\UE4Editor\Development\Ocean\UE4Editor-Ocean.lib"
+/INCLUDE:IMPLEMENT_MODULE_Ocean
