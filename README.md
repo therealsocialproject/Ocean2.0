@@ -1,4 +1,4 @@
-# Ocean 2.0.0
+# Ocean 2.0
 
 An RTS style game set in the modern era.
 
